@@ -1,0 +1,45 @@
+{
+  "bloglar": [
+    {
+      "id": "1",
+      "baslik": "Kullanıcı Odaklı Yazılım",
+      "kategoriler": [
+        "Yazılım",
+        "İçerik Yönetimi"
+      ],
+      "icerik": "Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Cupidatat ex consectetur officia ipsum voluptate do sit aliquip cupidatat magna aute voluptate ea dolor. Est velit fugiat dolor duis cillum eu anim Lorem. Commodo dolor mollit deserunt esse id magna cupidatat ut laboris ullamco laborum. Veniam amet est eu veniam duis Cillum esse nulla do velit dolor veniam. Velit quis amet ut tempor proident quis ipsum mollit quis dolore proident et. Eu eiusmod veniam cupidatat ad. Esse cillum anim minim irure non laboris commodo proident aliquip.Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Cupidatat ex consectetur officia ipsum voluptate do sit aliquip cupidatat magna aute voluptate ea dolor. Est velit fugiat dolor duis cillum eu anim Lorem. Commodo dolor mollit deserunt esse id magna cupidatat ut laboris ullamco laborum. Veniam amet est eu veniam duis Cillum esse nulla do velit dolor veniam. Velit quis amet ut tempor proident quis ipsum mollit quis dolore proident et. Eu eiusmod veniam cupidatat ad. Esse cillum anim minim irure non laboris commodo proident aliquip.",
+      "okunmaSuresi": "17 dakika"
+    },
+    {
+      "id": "2",
+      "baslik": "Web Sayfalarının Okunurluğunu Arttırma",
+      "kategoriler": [
+        "İçerik Yönetimi"
+      ],
+      "icerik": "Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Cupidatat ex consectetur officia ipsum voluptate do sit aliquip cupidatat magna aute voluptate ea dolor. Est velit fugiat dolor duis cillum eu anim Lorem. Commodo dolor mollit deserunt esse id magna cupidatat ut laboris ullamco laborum. Veniam amet est eu veniam duis Cillum esse nulla do velit dolor veniam. Velit quis amet ut tempor proident quis ipsum mollit quis dolore proident et. Eu eiusmod veniam cupidatat ad. Esse cillum anim minim irure non laboris commodo proident aliquip.Cupidatat ex consectetur officia ipsum voluptate do sit aliquip cupidatat magna aute voluptate ea dolor. Est velit fugiat dolor duis cillum eu anim Lorem. Commodo dolor mollit deserunt esse id magna cupidatat ut laboris ullamco laborum. Veniam amet est eu veniam duis Cillum esse nulla do velit dolor veniam. Velit quis amet ut tempor proident quis ipsum mollit quis dolore proident et. Eu eiusmod veniam cupidatat ad. Esse cillum anim minim irure non laboris commodo proident aliquip.",
+      "okunmaSuresi": "20 dakika"
+    },
+    {
+      "id": "3",
+      "baslik": "Mobil Oyun Geliştirme Üzerine",
+      "kategoriler": [
+        "Yazılım",
+        "Donanım",
+        "Tasarım",
+        "Mobil",
+        "Oyun Geliştirme"
+      ],
+      "icerik": "Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. Ad laboris et excepteur qui aute excepteur reprehenderit anim aliqua sint amet sit quis. Laborum irure proident ipsum nostrud officia ad. Ad aliquip eiusmod sit incididunt occaecat dolore cupidatat sint duis duis veniam dolor aute do.Ad sit commodo id dolore sit occaecat dolor aute eu eu sit enim. Labore deserunt voluptate occaecat voluptate cupidatat aliquip excepteur culpa est. Laborum aliquip cillum cillum adipisicing aliqua nostrud sunt fugiat exercitation duis nostrud anim sit. ",
+      "okunmaSuresi": "45 dakika"
+    },
+    {
+      "baslik": "Ahmet Palavan",
+      "kategoriler": [
+        "React"
+      ],
+      "icerik": "Ahmet bey react öğreniyor",
+      "okunmaSuresi": "10dakika",
+      "id": "0nX-eTd"
+    }
+  ]
+}

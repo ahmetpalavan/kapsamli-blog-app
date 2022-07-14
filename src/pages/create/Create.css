@@ -1,0 +1,61 @@
+.create {
+    color: #555;
+    max-width: 480px;
+    margin: 60px auto;
+}
+
+.create label span {
+    display: block;
+    margin: 30px 0 10px;
+}
+.create p {
+    margin-top: 10px;
+    font-size: 0.8em;
+}
+.create .btn {
+    display: block;
+    width: 100px;
+    font-size: 1em;
+    color: #fff;
+    padding: 8px 8px;
+    border: 0;
+    border-radius: 4px;
+    background-color: #786fa6;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 20px auto;
+}
+
+.create .btn:hover{
+    background-color: #fff;
+    border:1px solid #786fa6;
+    color: #786fa6;
+}
+.categories {
+    display: flex;
+    align-items: center;
+}
+
+.categories input {
+    border-radius: 15px;
+    outline: none;
+}
+.categories .btnAdd {
+    margin: 0 0 0 10px;
+    background-color:#574b90;
+    border-radius: 15px;
+}
+
+.categories .btnAdd:hover{
+    background-color:#303952;
+    border:0;
+    color:white
+}
+
+.list{
+    font-size: 0.9em;
+    color:#786fa6 !important;
+}
+.create.dark{
+    background-color:#fff;
+}
